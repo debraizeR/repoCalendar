@@ -1,0 +1,7 @@
+table{table-layout: fixed;
+    text-align: center;}
+    
+td{background-color: #FFD880 !important;}    
+
+.tdEmpty{background-color: #FEE6AE !important;}
+td:hover{background-color: #FEE6AE !important;}
